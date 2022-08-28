@@ -1,3 +1,3 @@
 # tweet2speech
-non-tested
+not-tested
 
